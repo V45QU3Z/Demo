@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+button {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.btn-new {
+    float: right;
+    margin-bottom: 10px;
+    background: #1db41d;
+    color: white;
+}

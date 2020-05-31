@@ -1,0 +1,12 @@
+.form {
+    width: 400px;
+}
+
+mat-form-field {
+    width: 100% !important;
+}
+
+.btn-update {
+    background: #0eaf23;
+    color: white;
+}
